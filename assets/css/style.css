@@ -293,3 +293,32 @@ header {
   font-size: 24px;
   font-weight: 800;
 }
+
+.new-overlay h3{
+  color: #3f5d18;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.new-overlay p{
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+
+.about-feature-item{
+  padding-right: 97px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.about-feature-item h2{
+  font-size: 16px;
+  color: #3c5e2c;
+}
+
+.about-feature-item p a{
+  color: #232323;
+  font-size: 16px;
+  text-decoration: none;
+}
